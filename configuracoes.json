@@ -1,7 +1,8 @@
 [
   {
     "tamanho": 200, 
-    "semente": 12000,
-    "probabilidade": 0.4
+    "semente": 805,
+    "probabilidade": 0.6,
+    "tipo": "nao_altera"
   }
 ]
